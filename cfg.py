@@ -1,2 +1,2 @@
-USR = "example@test.com" # Username
-PWD = "123456789" # Password
+USR = "diegoavila@knights.ucf.edu" # Username
+PWD = "@UCFKnight0914@" # Password
